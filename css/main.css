@@ -332,12 +332,12 @@ li {
   padding: 4rem 2rem;
 }
 
-.contact-intro {
+.contact-para {
   text-align: center;
   margin: 2rem 0;
 }
 
-.contact-intro p {
+.contact-para p {
   font-size: 32px;
   font-family: "Inter", sans-serif;
   font-weight: 700;
