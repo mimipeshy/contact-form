@@ -1,7 +1,7 @@
 # contact-form
 The goal is to create a contact form from figma. The original design is in the screenshot below  
 
-![screenshot](./CAPTURE.PNG)
+![screenshot](Capture.PNG)
 
 
 ## Built With
